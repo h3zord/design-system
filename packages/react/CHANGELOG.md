@@ -1,5 +1,11 @@
 # @h3zord-ignite-ui/react
 
+## 3.0.3
+
+### Patch Changes
+
+- test
+
 ## 3.0.2
 
 ### Patch Changes
