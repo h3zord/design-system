@@ -1,5 +1,11 @@
 # @h3zord-ignite-ui/tokens
 
+## 6.0.0
+
+### Major Changes
+
+- test
+
 ## 5.0.0
 
 ### Major Changes
