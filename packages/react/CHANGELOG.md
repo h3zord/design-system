@@ -1,5 +1,11 @@
 # @h3zord-ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- changing import name
+
 ## 3.0.3
 
 ### Patch Changes

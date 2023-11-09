@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@h3zord-ignite-ui/tokens'
 
 export const {
   styled,

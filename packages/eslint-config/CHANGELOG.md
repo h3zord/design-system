@@ -1,5 +1,11 @@
 # @h3zord-ignite-ui/eslint-config
 
+## 4.0.0
+
+### Major Changes
+
+- changing import name
+
 ## 3.0.2
 
 ### Patch Changes

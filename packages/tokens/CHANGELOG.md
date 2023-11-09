@@ -1,5 +1,11 @@
 # @h3zord-ignite-ui/tokens
 
+## 5.0.0
+
+### Major Changes
+
+- changing import name
+
 ## 4.0.2
 
 ### Patch Changes
