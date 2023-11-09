@@ -1,4 +1,4 @@
-import { colors } from '@h3zord-ignite-ui/tokens'
+import { colors } from '@h3zord-ignite-call-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

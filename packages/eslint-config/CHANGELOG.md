@@ -1,7 +1,7 @@
-# @h3zord-ignite-ui/eslint-config
+# @h3zord-ignite-call-ui/eslint-config
 
-## 2.0.0
+## 1.0.1
 
-### Major Changes
+### Patch Changes
 
 - core files deploy

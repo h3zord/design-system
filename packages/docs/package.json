@@ -1,5 +1,5 @@
 {
-  "name": "@h3zord-ignite-ui/docs",
+  "name": "@h3zord-ignite-call-ui/docs",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,10 +14,10 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@h3zord-ignite-ui/eslint-config": "*",
-    "@h3zord-ignite-ui/react": "*",
-    "@h3zord-ignite-ui/tokens": "*",
-    "@h3zord-ignite-ui/ts-config": "*",
+    "@h3zord-ignite-call-ui/eslint-config": "*",
+    "@h3zord-ignite-call-ui/react": "*",
+    "@h3zord-ignite-call-ui/tokens": "*",
+    "@h3zord-ignite-call-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.5.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

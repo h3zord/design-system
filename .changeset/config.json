@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@h3zord-ignite-ui/docs"]
+  "ignore": ["@h3zord-ignite-call-ui/docs"]
 }

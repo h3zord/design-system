@@ -1,7 +1,7 @@
-# @h3zord-ignite-ui/react
+# @h3zord-ignite-call-ui/react
 
-## 2.0.0
+## 1.0.1
 
-### Major Changes
+### Patch Changes
 
 - core files deploy

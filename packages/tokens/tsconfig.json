@@ -1,4 +1,4 @@
 {
-  "extends": "@h3zord-ignite-ui/ts-config/base.json",
+  "extends": "@h3zord-ignite-call-ui/ts-config/base.json",
   "include": ["src"]
 }
