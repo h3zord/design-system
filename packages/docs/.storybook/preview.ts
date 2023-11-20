@@ -17,7 +17,6 @@ const preview: Preview = {
       theme: themes.dark
     }
   },
-  
 };
 
 export default preview;

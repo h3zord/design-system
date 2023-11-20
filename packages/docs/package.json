@@ -1,23 +1,20 @@
 {
   "name": "@h3zord-ignite-call-ui/docs",
-  "private": true,
   "version": "1.0.0",
-  "type": "module",
   "license": "MIT",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "build-vite": "tsc && vite build",
     "build": "storybook build",
-    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
     "dev": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
+    "@h3zord-ignite-call-ui/ts-config": "*",
     "@h3zord-ignite-call-ui/eslint-config": "*",
     "@h3zord-ignite-call-ui/react": "*",
     "@h3zord-ignite-call-ui/tokens": "*",
-    "@h3zord-ignite-call-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.5.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
