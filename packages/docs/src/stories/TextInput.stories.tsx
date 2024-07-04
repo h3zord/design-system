@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@h3zord-ignite-call-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@h3zord-ui-ignite-call/react'
 
 export default {
   title: 'Form/Text Input',

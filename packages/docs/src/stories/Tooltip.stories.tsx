@@ -1,4 +1,4 @@
-import { Box, Button, Tooltip, TooltipProps } from "@h3zord-ignite-call-ui/react";
+import { Box, Button, Tooltip, TooltipProps } from "@h3zord-ui-ignite-call/react";
 import { Meta, StoryObj } from "@storybook/react";
 
 export default {

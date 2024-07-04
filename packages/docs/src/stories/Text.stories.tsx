@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@h3zord-ignite-call-ui/react'
+import { Text, TextProps } from '@h3zord-ui-ignite-call/react'
 
 export default {
   title: 'Typography/Text',

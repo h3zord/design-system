@@ -1,4 +1,4 @@
-import { Button, Toast, ToastProps } from "@h3zord-ignite-call-ui/react"
+import { Button, Toast, ToastProps } from "@h3zord-ui-ignite-call/react"
 import { Meta, StoryObj } from "@storybook/react"
 import { useEffect, useRef, useState } from "react"
 

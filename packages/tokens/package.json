@@ -1,6 +1,6 @@
 {
-  "name": "@h3zord-ignite-call-ui/tokens",
-  "version": "1.0.2",
+  "name": "@h3zord-ui-ignite-call/tokens",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "",
   "description": "",
@@ -14,8 +14,8 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "devDependencies": {
-    "@h3zord-ignite-call-ui/ts-config": "*",
-    "@h3zord-ignite-call-ui/eslint-config": "*",
+    "@h3zord-ui-ignite-call/ts-config": "*",
+    "@h3zord-ui-ignite-call/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }

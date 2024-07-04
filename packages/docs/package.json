@@ -1,5 +1,5 @@
 {
-  "name": "@h3zord-ignite-call-ui/docs",
+  "name": "@h3zord-ui-ignite-call/docs",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
@@ -11,10 +11,10 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
-    "@h3zord-ignite-call-ui/ts-config": "*",
-    "@h3zord-ignite-call-ui/eslint-config": "*",
-    "@h3zord-ignite-call-ui/react": "*",
-    "@h3zord-ignite-call-ui/tokens": "*",
+    "@h3zord-ui-ignite-call/ts-config": "*",
+    "@h3zord-ui-ignite-call/eslint-config": "*",
+    "@h3zord-ui-ignite-call/react": "*",
+    "@h3zord-ui-ignite-call/tokens": "*",
     "@storybook/addon-a11y": "^7.5.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

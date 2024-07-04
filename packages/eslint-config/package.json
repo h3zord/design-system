@@ -1,7 +1,7 @@
 {
-  "name": "@h3zord-ignite-call-ui/eslint-config",
+  "name": "@h3zord-ui-ignite-call/eslint-config",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "private": true,
   "main": "index.js",
   "devDependencies": {
