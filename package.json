@@ -1,5 +1,5 @@
 {
-  "name": "design-system",
+  "name": "ignite-ui",
   "packageManager": "npm@10.2.3",
   "private": true,
   "workspaces": [
@@ -10,7 +10,7 @@
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=!docs && changeset publish"
+    "release": "turbo run build --filter=!@ignite-ui/docs && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
