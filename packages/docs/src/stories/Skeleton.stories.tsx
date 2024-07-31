@@ -7,6 +7,7 @@ export default {
   component: Skeleton,
   args: {
     variant: 'rounded',
+    animation: 'pulse',
     width: '300px',
     height: '100px',
   },

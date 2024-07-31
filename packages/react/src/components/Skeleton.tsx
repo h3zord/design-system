@@ -1,5 +1,5 @@
-import { ComponentProps } from 'react'
 import SkeletonScreen from '@mui/material/Skeleton'
+import { ComponentProps } from 'react'
 
 export type SkeletonProps = ComponentProps<typeof SkeletonScreen>
 
