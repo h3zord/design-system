@@ -8,13 +8,23 @@
   </a>
 </h2>
 
+## Demonstração
+
+<div align="center">
+
+  https://github.com/user-attachments/assets/22130f0d-f5e3-46db-85c1-fcb7ecdbd8ec
+
+</div>
+
+<br/>
+
 ## O que foi desenvolvido?
 
 <strong>Ignite UI</strong> é um design system utilizado na aplicação [Ignite Call](https://github.com/h3zord/ignite-call). De forma resumida, um design system é um conjunto de padrões, componentes e diretrizes que ajudam a criar uma experiência de usuário consistente e eficiente em todas as partes de um produto digital. A principal vantagem de um design system é garantir uniformidade e reusabilidade, facilitando a colaboração entre designers e desenvolvedores. O Ignite UI conta com elementos como paleta de cores, tipografias, espaçamento, botões, formulários e outros componentes de interface.
 
 Esta aplicação é um monorepo que contém os seguintes pacotes:
 
-- docs: Documentação de todos os elementos utilizando Vite (versão 4.4.5), Storybook (versão 7.5.1), TypeScript e Polished.
+- docs: Documentação de todos os elementos utilizando Vite (versão 4.4.5), StoryBook (versão 7.5.1), TypeScript e Polished.
 - react: Onde os componentes foram construídos com React (versão 18.2.0), TypeScript e estilizados com a biblioteca Stitches.
 - tokens: Descrição de todas as cores, fontes, pesos e tamanhos de fontes, espaçamentos e raios de borda.
 - ts-config e eslint-config: Configurações do TypeScript e ESLint, respectivamente, utilizadas nos pacotes descritos anteriormente.
@@ -24,7 +34,7 @@ Outras bibliotecas utilizadas incluem: Radix UI, Phosphor Icons, Tsup, Turborepo
 ## Linguagens e ferramentas
 
 - [Vite](https://nextjs.org/)
-- [Storybook](https://storybook.js.org/)
+- [StoryBook](https://storybook.js.org/)
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Polished](https://polished.js.org/)
@@ -69,6 +79,6 @@ Caso utilize o yarn
 yarn run dev
 ```
 
-<strong>Storybook irá executar a aplicação na porta 6006.</strong>
+<strong>StoryBook irá executar a aplicação na porta 6006.</strong>
 <br/>
 ➜ http://localhost:6006
