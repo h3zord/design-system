@@ -3,7 +3,7 @@
   "packageManager": "npm@10.2.3",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/**"
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",

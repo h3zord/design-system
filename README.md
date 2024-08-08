@@ -69,7 +69,17 @@ Caso utilize o yarn
 yarn install
 ```
 
-### 4 - Inicie o projeto:
+### 4 - Execute a build do projeto:
+Caso utilize o npm
+```
+npm run build
+```
+Caso utilize o yarn
+```
+yarn run build
+```
+
+### 5 - Inicie o projeto:
 Caso utilize o npm
 ```
 npm run dev
